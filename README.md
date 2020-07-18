@@ -34,7 +34,7 @@ Here, the advanced command to run the program in detailed mode:
 ./main dataset Xsize Ysize Learning1 Learning2 -V Number_to_produce
 ```
 - -Verbose = Display at each stage of learning the evolution of the neuron network.
-- Number_to_produce = Display at each stage of the learning the representation of the number defined by average of each neurons labeled by this number (by default 0).*
+- Number_to_produce = Display at each stage of the learning the representation of the number defined by average of each neurons labeled by this number (by default 0).
 
 ## Sources
 - http://yann.lecun.com/exdb/mnist/
